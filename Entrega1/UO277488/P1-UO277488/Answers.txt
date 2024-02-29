@@ -1,0 +1,10 @@
+1): approx 229 M of years (search the max num codeable in a long of 64 bits and transforms those millis to years. Subtract the current years, 54. Or not. It's 54 vs 229.000.000
+the error is not big)
+
+2): a)-that the time is lower than a millisecond, that is the problem is not that heavy
+    b)- 134.700.000
+
+3):a) -35 -> 68 -> 137... the time increases very approximately k times 
+b)-Since the complexity is O(n) it is espected that the growth of the time is also linear.
+
+Vresion of CPU: Intel i7-4790 3.60GHz
