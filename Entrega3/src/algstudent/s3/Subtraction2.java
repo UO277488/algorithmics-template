@@ -16,8 +16,6 @@ public class Subtraction2 {
 			for (int i = 0; i < n; i++)
 				cont++; // O(n)
 			rec2(n - 1);
-			for (int i = 0; i < n; i++)
-				cont++; // O(n)
 		}
 	}
 

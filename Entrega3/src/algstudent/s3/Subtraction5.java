@@ -19,7 +19,7 @@ public class Subtraction5 {
 		long t1, t2 = 0;
 		int nTimes = Integer.parseInt (arg [0]);
 		
-		for (int n = 1; n <= 100; n++) {
+		for (int n = 30; n <= 100; n+=2) {
 			t1 = System.currentTimeMillis();
 
 			for (int reps=1; reps<=nTimes;reps++)

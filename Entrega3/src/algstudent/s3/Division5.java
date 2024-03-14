@@ -19,7 +19,7 @@ public class Division5 {
 		public static void main (String arg []) 
 		{
 			 long t1,t2,cont = 0;	 
-			 for (int n=1;n<=10000000;n*=2)
+			 for (int n=1000;n<=10000000;n*=2)
 			 {
 				  t1 = System.currentTimeMillis ();
 				   
